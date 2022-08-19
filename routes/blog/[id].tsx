@@ -11,7 +11,7 @@ const post: Post = {
   content: "This is my first post.",
 };
 
-export default function Home() {
+export default function BlogPostPage() {
   return (
     <div class={tw`px-4 mx-auto max-w-screen-md mt-6`}>
       <p class={tw`text-gray-600`}>{post.publishAt.toLocaleDateString()}</p>

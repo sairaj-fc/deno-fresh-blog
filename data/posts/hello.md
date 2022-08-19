@@ -1,6 +1,6 @@
 ---
 title: Hello World
-published_at: 2022-08-19T09:00:09.642Z
+publish_at: 2022-08-19T09:00:09.642Z
 snippet: This is the first post
 ---
 
